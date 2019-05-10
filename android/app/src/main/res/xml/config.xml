@@ -13,6 +13,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <access origin="http://39.127.48:8080/*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
